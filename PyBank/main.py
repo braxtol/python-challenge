@@ -1,5 +1,4 @@
 # Bring in libraries
-from statistics import mean 
 import os
 import csv
 
